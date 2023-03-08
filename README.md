@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on SYSU.
 - 🌱 I’m currently learning deep learning method.
 - 📫 How to reach me: 953024504@qq.com.
-- CSDN: https://blog.csdn.net/qq_40135006
+- My CSDN blog: https://blog.csdn.net/qq_40135006
 
 <!--
 **ouzj5/ouzj5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
